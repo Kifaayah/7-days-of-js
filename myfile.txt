@@ -1,0 +1,2 @@
+My Name is Kifaayah.
+On the first class of 7days-of-Javascript by Femcode, I learnt to inspect on my browser, use the console, download and install git, uing the command line,the use of javascript and why it is necessary learn it ans so much more.
